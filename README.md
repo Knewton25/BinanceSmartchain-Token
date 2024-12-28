@@ -1,7 +1,3 @@
-# BinanceSmartchain-Token
-A good README file provides clear, concise, and helpful information about your project. For a Binance Smart Chain (BSC) token, here’s a template for your README:
-
----
 Newkoin Bsc Token
 
 "A BEP-20 token deployed on Binance Smart Chain (BSC), featuring [key features like maximum transaction limits, wallet limits, and tokenomics] . Includes standard functionalities for secure and efficient transactions."
