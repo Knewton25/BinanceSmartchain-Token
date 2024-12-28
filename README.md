@@ -1,1 +1,45 @@
 # BinanceSmartchain-Token
+A good README file provides clear, concise, and helpful information about your project. For a Binance Smart Chain (BSC) token, here’s a template for your README:
+
+---
+Newkoin Bsc Token
+
+"A BEP-20 token deployed on Binance Smart Chain (BSC), featuring [key features like maximum transaction limits, wallet limits, and tokenomics] . Includes standard functionalities for secure and efficient transactions."
+
+
+---
+
+## **Features**
+- **BEP-20 Standard**: Fully compliant with the BEP-20 token standard.
+- **Anti-Whale Mechanisms**: Limits on maximum transaction and wallet size to prevent price manipulation.
+- **Automatic Liquidity**: A portion of each transaction adds liquidity to the token’s trading pool.
+- **Reflection Rewards**: Token holders earn passive income via transaction fees.
+- **Token Burn**: Deflationary mechanism to reduce supply over time.
+
+---
+
+## **Tokenomics**
+- **Total Supply**: `100,000,000` tokens
+- **Transaction Tax**: 25buy/25 sell
+- **Max Transaction Amount**: `1,000,000` tokens
+- **Wallet Limit**: `1,000,000` tokens
+
+---
+
+
+
+## **Contributing**
+Contributions are welcome! Feel free to open an issue or submit a pull request.
+
+---
+
+## **License**
+This project is licensed under the [MIT License](LICENSE).
+
+---
+
+## **Disclaimer**
+This project is for educational and informational purposes only. Use it at your own risk. Ensure compliance with local laws and regulations before deploying or using the token.
+
+---
+
