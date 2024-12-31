@@ -790,4 +790,12 @@ contract NEWKOIN is Context, IERC20, Ownable {
             feeAmount = amount.mul(_totalTaxIfSelling).div(100);
         }
         
-      
+        if(feeAmount > 0) {
+            _balances[address(this)] = _balances[address(this)].add(feeAmount);
+            emit Transfer(sender, address(this), feeAmount);
+        }
+
+        return amount.sub(feeAmount);
+    }
+    
+}
