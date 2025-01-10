@@ -5,7 +5,7 @@ Newkoin Bsc Token
 
 ---
 
-Features
+**Features**
 - **BEP-20 Standard**: Fully compliant with the BEP-20 token standard.
 - **Anti-Whale Mechanisms**: Limits on maximum transaction and wallet size to prevent price manipulation.
 - **Automatic Liquidity**: A portion of each transaction adds liquidity to the token’s trading pool.
@@ -14,7 +14,7 @@ Features
 
 ---
 
-Tokenomics
+**Tokenomics**
 - **Total Supply**: `100,000,000` tokens
 - **Transaction Tax**: 25buy/25 sell
 - **Max Transaction Amount**: `1,000,000` tokens
@@ -29,12 +29,12 @@ Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ---
 
-## **License**
+ **License**
 This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-## **Disclaimer**
+Disclaimer
 This project is for educational and informational purposes only. Use it at your own risk. Ensure compliance with local laws and regulations before deploying or using the token.
 
 ---
