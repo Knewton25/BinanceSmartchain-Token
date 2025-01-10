@@ -14,7 +14,7 @@ Newkoin Bsc Token
 
 ---
 
-## **Tokenomics**
+Tokenomics
 - **Total Supply**: `100,000,000` tokens
 - **Transaction Tax**: 25buy/25 sell
 - **Max Transaction Amount**: `1,000,000` tokens
