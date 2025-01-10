@@ -5,7 +5,7 @@ Newkoin Bsc Token
 
 ---
 
-## **Features**
+**Features**
 - **BEP-20 Standard**: Fully compliant with the BEP-20 token standard.
 - **Anti-Whale Mechanisms**: Limits on maximum transaction and wallet size to prevent price manipulation.
 - **Automatic Liquidity**: A portion of each transaction adds liquidity to the token’s trading pool.
