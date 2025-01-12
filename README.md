@@ -1,7 +1,6 @@
 Newkoin Binance Smart Chain Token
 
 
-"A BEP-20 token deployed on Binance Smart Chain (BSC), featuring [key features like maximum transaction limits, wallet limits, and tokenomics] . Includes standard functionalities for secure and efficient transactions.
 
 ---
 
